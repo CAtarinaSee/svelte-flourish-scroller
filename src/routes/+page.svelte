@@ -2,13 +2,12 @@
 	import FlourishScroller from '../components/FlourishScroller.svelte';
 	import NewsArticle from './NewsArticle.svelte';
 	let steps = [
+		"A Calvin Klein é uma marca americana fundada em 1968 pelo designer Calvin Klein. ",
+		"Analisando os tamanhos de partes de cima desta marca conseguimos ver que existe uma diferença que entra em concordância com a teoria de vanity sizing",
+		"No peito existe uma diferenca de 5cm entre os anos de 2020 e 2021 e na cintura confirma-se um aumento de 2cm.",
 		"A Levi's é uma marca americana conhecida pelas suas gangas, fundada por Bávaro Levi Strauss em 1853 em São Francisco. ",
 		"Ao analisar as suas gangas, conseguimos ver que na perspetiva dos últimos 7 anos os tamanhos da anca e cintura estão a diminuir, contrariando a teoria do vanity sizing.",
 		"Na cintura existe uma diferença de 0,5cm na cintura e na anca chega a existir uma diferença de 1cm.",
-		"A Calvin Klein é uma marca americana fundada em 1968 pelo designer Calvin Klein. ",
-		"Analisando os tamanhos de partes de cima desta marca conseguimos ver que existe uma diferença que entra em concordância com a teoria de vanity sizing",
-		"No peito existe uma diferenca de 5cm entre os anos de 2020 e 2021 e na cintura confirma-se um aumento de 2cm."
-
 
 ]
 </script>
