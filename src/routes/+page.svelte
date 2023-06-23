@@ -51,6 +51,8 @@
 
 <FlourishScroller flourish_id="1959688" {steps} />
 
+<br>
+
 <p class="mb-5">O artigo “how to fix vanity sizing” da revista TIME, explora a transformação de um tamanho 8 (tamanho europeu M) através dos anos. Este descreve que em 1958 o tamanho 8 (M) corresponderia ao atual tamanho 00 (xxs) com um tamanho de peito de 79 cm. Já no ano de 1995 o tamanho 8 é um atual 6 com tamanho de peito de 89 cm.</p>
 
 	<p class="mb-5"> O dimensionamento incorreto das peças de roupa é um problema complexo que requer uma abordagem multifacetada para lidar com seus efeitos negativos. Ao abordar as causas principais e implementar mudanças em todo o setor, podemos lutar pela indústria da moda, promover a positividade do corpo, fornecer informações precisas sobre tamanhos e, por fim, priorizar o bem-estar e a satisfação do consumidor.</p>
