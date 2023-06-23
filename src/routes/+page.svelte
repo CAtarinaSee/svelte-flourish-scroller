@@ -52,6 +52,8 @@
 <FlourishScroller flourish_id="1959688" {steps} />
 
 <br>
+<br>
+<br>
 
 <p class="mb-5">O artigo “how to fix vanity sizing” da revista TIME, explora a transformação de um tamanho 8 (tamanho europeu M) através dos anos. Este descreve que em 1958 o tamanho 8 (M) corresponderia ao atual tamanho 00 (xxs) com um tamanho de peito de 79 cm. Já no ano de 1995 o tamanho 8 é um atual 6 com tamanho de peito de 89 cm.</p>
 
