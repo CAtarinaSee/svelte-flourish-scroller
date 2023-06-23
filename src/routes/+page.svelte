@@ -14,7 +14,6 @@
 
 <main class="max-w-2xl mx-auto mt-28">
 	<h1 class="text-4xl mb-4">Vanity Sizing </h1>
-
 	<h3 class="text-2xl mb-4 opacity-60">O vanity sizing tem vindo a captar o interesse do público há cerca de 13 anos, no entanto foi em 2022 que atingiu o seu pico de pesquisas. É nos Estados Unidos onde encontramos a maior incidência de procuras por este termo, seguido do Canadá e do Reino Unido.</h3>
 
 	<p class="mb-2">O vanity sizing é um fenómeno teórico no qual se acredita que o tamanho real de uma peça de vestuário com o mesmo tamanho nominal vai aumentando ao longo do tempo, ou, com a inflação.</p>
