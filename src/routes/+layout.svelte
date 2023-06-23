@@ -4,12 +4,12 @@
 
 <nav class="shadow slideIn">
 	<div class="container flex items-center justify-center p-3 mx-auto text-gray-50">
-		<img
+		<!-- <img
 			src="https://dataharvest.eu/wp-content/themes/generatepress_dataharvest/assets/img/logo-dataharvest.svg"
 			alt="data harvest logo"
 			class="h-6"
-		/>
-		<h1 class="ml-2 text-md font-bold mt-2">News</h1>
+		/> -->
+		<!-- <h1 class="ml-2 text-md font-bold mt-2">News</h1> -->
 	</div>
 </nav>
 
